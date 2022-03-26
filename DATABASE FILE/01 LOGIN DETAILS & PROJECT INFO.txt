@@ -1,0 +1,13 @@
+**Database Name: ecommerceapp**
+
+**Recommended PHP Version 7.0.3**
+
+
+
+**Admin Login Details**
+
+Email:    harryden@gmail.com
+Password: password
+
+**Project Folder should not be changed from "Ecommerce-app-h" to others
+without making changes in the code**
